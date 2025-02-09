@@ -1,2 +1,5 @@
+{% include header.md %}
+
 { content }
+
 {% include footer.html %}
