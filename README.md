@@ -1,3 +1,3 @@
 # intelli-jens
 
-{% include ./parts/footer.html %}
+{% include footer.html %}
