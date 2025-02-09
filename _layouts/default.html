@@ -1,0 +1,15 @@
+<html>
+  <body>
+    <header>
+      <nav>
+        {% assign menu = site.menus.header %}
+        {% include menus.html %}
+      </nav>
+      {% include header.md %}
+    </header>
+    {{ content }}
+    <div>
+      {% include footer.md %}
+    </div>
+  </body>
+</html>
