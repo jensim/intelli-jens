@@ -1,1 +1,1 @@
-# intelli-jens
+![](assets/IntelliJensLogo.svg)
